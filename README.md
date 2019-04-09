@@ -1,2 +1,2 @@
 # get_public_ip
-Get public IP from icanhazip.com server
+A Python 2 script that get public IP from icanhazip.com server
